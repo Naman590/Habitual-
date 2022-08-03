@@ -1,0 +1,162 @@
+    html {
+        box-sizing: border-box;
+    }
+    body {
+        margin: 0;
+        overflow-x: hidden;
+        font-family: Lato, sans-serif;
+        color: #000000;
+
+        background: linear-gradient(180deg, #FFFFFF 0%, #FFD54E 100%);
+    }
+
+    .wrapper {
+        position: relative;
+        width: 1512px;
+        height: 2210px;
+        margin: auto;
+        
+    }
+
+    .brand-img{
+        position: absolute;
+        width: 280px;
+        height: 65.88px;
+        left: 85px;
+        top: 100.06px;
+    }
+    .title {
+        position: absolute;
+        width: 545px;
+        height: 36px;
+        left: 92px;
+        top: 280px;
+
+        font-family: 'Lato';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 36px;
+    }
+
+    .text {
+        position: absolute;
+        width: 403px;
+        height: 162px;
+        left: 113px;
+        top: 355px;
+
+        font-family: 'Lato';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 32px;
+        line-height: 36px;
+
+    }
+    
+    .play-store-btn {
+        position: absolute;
+        width: 251px;
+        height: 79px;
+        left: 78px;
+        top: 559px;
+    }
+
+    .play-store-btn img {
+        width: 251px;
+        height: 79px;
+    }
+
+    .app-store-btn {
+        position: absolute;
+        width: 252px;
+        height: 88.76px;
+        left: 348px;
+        top: 557px;
+    }
+
+    .app-store-btn img {
+        width: 252px;
+        height: 88.76px;
+    }
+
+    .text2 {
+        position: absolute;
+        width: 299px;
+        height: 43px;
+        left: 89px;
+        top: 719px;
+
+        font-family: 'Lato';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 36px;
+        line-height: 43px;
+     }
+
+     .text3 {
+        position: absolute;
+        width: 166px;
+        height: 35px;
+        left: 415px;
+        top: 718px;
+
+        font-family: 'Lato';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 38px;
+        text-decoration-line: underline;
+
+color: #0066AF;
+     }
+
+
+    .main-image-container {
+        position: absolute;
+        width: 800px;
+        height: 615.3px;
+        left: 600px;
+        top: 262px;
+     }
+
+    .main-image-container img {
+        height: 590.51px;
+    }
+
+    .home-image {
+        position: absolute;
+        width: 317px;
+        height: 600px;
+        right: 1053px;
+        top: 859px;
+
+    }
+    
+    .home-image img {
+        height: 615.31px;
+    }
+
+    .landing-image {
+        position: absolute;
+        width: 317px;
+        height: 600.1px;
+        right: 595px;
+        top: 1089px;
+    }
+
+    .landing-image img {
+        height: 600.31px;
+    }
+
+    .whishlist-image {
+        position: absolute;
+        width: 317px;
+        height: 600.1px;
+        right: 160px;
+        top: 1393px;
+    }
+
+    .whishlist-image img {
+        height: 615.31px;
+    }
